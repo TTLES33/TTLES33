@@ -6,7 +6,7 @@
 
 <br>
 
--  🔨 I'm currenty start working on **Steam Discord Bot, Personal Website**
+-  🔨 I'm currenty start working on **Lyrics Discord Bot, Personal Website**
 
 -  🌱 I’m currently learning **Python, Linux**
 
