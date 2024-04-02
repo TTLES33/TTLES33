@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi There , I'm Jan Grygar</h1>
-#### A passionate programmer from the 🇨🇿Czech Republic.
+### A passionate programmer from the 🇨🇿Czech Republic.
 
  [Personal webpage](https://ttles.eu/)
 
