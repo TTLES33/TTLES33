@@ -15,7 +15,7 @@
  
 ### Productivity utilities
 -   Microsoft Office
-- 
+
 ##  Currently learning
 -   **Java** at MOOC [Java Programming](https://www.mooc.fi/en/) from the University of Helsinki
 
@@ -26,5 +26,5 @@
 ## Contact me
 
  - [Personal webpage](https://ttles.eu/)  <br>  
- - [LinkedIn](https://www.linkedin.com/in/jan-grygar/) email:   
+ - [LinkedIn](https://www.linkedin.com/in/jan-grygar/)
  - jangrygar5@gmail.com
