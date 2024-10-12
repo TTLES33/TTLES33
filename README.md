@@ -17,7 +17,10 @@
 -   Microsoft Office
 
 ##  Currently learning
--   **Java** at MOOC [Java Programming](https://www.mooc.fi/en/) from the University of Helsinki
+-   **Java**
+  
+##  Currently working on
+-   **Chordium** - app for finding chords for any string instrument with any tuning and fretboard length 
 
 ##  Languages
 -   Czech
